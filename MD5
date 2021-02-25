@@ -1,0 +1,11 @@
+24d2963e9c87b238f62e3d7f2c790eae *DESCRIPTION
+6490da05002cf1422fd3259721f6f661 *LICENSE
+1425a24c8bac2e5bffa52a16146bd9f0 *NAMESPACE
+1173681d4624bfe8385dc06be8108d00 *R/dumbbell.R
+4b970a986857098c3aecb7e335531dd4 *R/global.R
+32616b1f5ed143fb07c411512852cd4d *build/vignette.rds
+8d3d6f6521eb85a8f46fedeadd24cde2 *inst/doc/dumbbell.R
+47fd9dc9c078f4aeee4eb2944817615c *inst/doc/dumbbell.Rmd
+10c2839099ccd231a43f641f88be49b8 *inst/doc/dumbbell.html
+17a692e956376beffbe5322102f27a4a *man/dumbbell.Rd
+47fd9dc9c078f4aeee4eb2944817615c *vignettes/dumbbell.Rmd
